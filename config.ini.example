@@ -1,0 +1,6 @@
+[Retrosheet]
+url=http://www.retrosheet.org/
+[BallParks]
+url=http://www.retrosheet.org/boxesetc/MISC/PKDIR.htm
+[google]
+api_key=your_api_key

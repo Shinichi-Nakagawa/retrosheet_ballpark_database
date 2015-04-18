@@ -1,0 +1,14 @@
+beautifulsoup4==4.3.2
+bottle==0.12.8
+bottle-sqlalchemy==0.4.2
+geopy==1.10.0
+google-api-python-client==1.4.0
+httplib2==0.9.1
+oauth2client==1.4.7
+pyasn1==0.1.7
+pyasn1-modules==0.0.5
+rsa==3.1.4
+simplejson==3.6.5
+six==1.9.0
+SQLAlchemy==1.0.0
+uritemplate==0.6
